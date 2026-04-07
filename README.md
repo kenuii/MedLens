@@ -17,7 +17,7 @@ MedLens is designed to be a supportive tool that empowers users to take proactiv
 
 ### [Video](https://youtu.be/oEo6aWIaYig)
 
-### [Logbook](https://github.com/kenuii/Life-Link/blob/main/logbook.md)
+### [Logbook](https://github.com/kenuii/MedLens/blob/main/logbook.md)
 
 ### [References](https://github.com/kenuii/MedLens/blob/main/bibliography.md)
 
