@@ -1,3 +1,54 @@
+# 💻 Resources and Software Utilized  
+Since MedLens is a fully digital project, all tools and resources used were software-based.  
+
+---
+
+### 🛠️ FlutterFlow No-Code Development & Documentation  
+<img src="https://cdn.brandfetch.io/id209IGdxm/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1740558018900" width="250">  
+
+FlutterFlow played a major role in building MedLens quickly and efficiently. Its drag-and-drop interface and prebuilt components allowed me to design the full app, including image upload, preview, and results screens. The ability to generate Flutter/Dart code made it possible to customize features when needed. FlutterFlow’s integration with Firebase and API services helped streamline the connection between the frontend and AI processing.  
+
+---
+
+### 🚀 Firebase & Cloud Services  
+<img src="https://github.com/user-attachments/assets/77a702d6-d83e-47d2-b169-a6388656a909" width="250">  
+
+Firebase was used as the backend for MedLens, handling image storage, data management, and real-time processing. Firebase Storage allows users to upload medical images securely, while Firestore manages structured data such as results and user interactions. The platform provides a scalable and reliable infrastructure, ensuring fast performance during image uploads and analysis.  
+
+---
+
+### 🤖 AI Model & Machine Learning Tools  
+<img src="https://github.com/user-attachments/assets/ai-placeholder.png" width="250">  
+
+The core of MedLens is its AI-powered image model, trained on over 10,000 medical images to detect patterns related to skin cancer and tumors. Machine learning tools were used to train, test, and refine the model to improve accuracy and performance. The model analyzes uploaded images and returns structured outputs, including possible conditions, risk levels, and explanations.  
+
+---
+
+### 🎨 Figma for UI/UX Design  
+<img src="https://github.com/user-attachments/assets/b8a023fc-2fe9-49e1-83d2-6c77ddf9a277" width="250">  
+
+Figma was used to design the user interface and plan the overall user experience of MedLens. Wireframes and mockups were created before development to visualize how users would interact with the app. This helped ensure that the design remained simple, clear, and accessible, especially for users without a medical background.  
+
+---
+
+### 📱 Flutter Framework for Customization  
+<img src="https://github.com/user-attachments/assets/4d755948-a230-4fc8-854c-7fda5554b93f" width="250">  
+
+Although FlutterFlow handled most of the development, the Flutter framework was used for custom logic and advanced features. Dart code was written to handle image processing, AI integration, and data flow between components. This allowed greater control and flexibility beyond the no-code environment.  
+
+---
+
+### 🛠️ Xcode for iOS Testing  
+<img src="https://github.com/user-attachments/assets/8af2ba0c-d827-447a-9ea7-37ec79599147" width="250">  
+
+Xcode was used to test MedLens on iOS devices. Its simulators and debugging tools helped ensure that the app functioned smoothly on iPhones, with proper image handling and UI responsiveness.  
+
+---
+
+### 🤖 Android Studio for Android Testing  
+<img src="https://github.com/user-attachments/assets/3d38d279-c376-48be-b392-c119702e3006" width="250">  
+
+Android Studio was used to test MedLens across different Android devices. The emulator allowed testing on various screen sizes and configurations, ensuring consistent performance. Debugging tools helped identify and fix issues related to image uploads and app stability.  
 # MedLens Project Logbook  
 
 ---
