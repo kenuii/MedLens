@@ -17,7 +17,7 @@ Life Link is designed to provide a reliable and accessible solution for those in
 
 ### [Logbook](https://github.com/kenuii/Life-Link/blob/main/logbook.md)
 
-### [References](https://github.com/kenuii/Life-Link/blob/main/bibliography.md)
+### [References](https://github.com/kenuii/MedLens/blob/main/bibliography.md)
 
 # 🖥️ Our Features
 
