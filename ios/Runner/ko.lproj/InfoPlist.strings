@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "LifeLink에 위치 정보가 필요합니다";
+PermissionGroupNotification = "LifeLink를 사용하려면 알림을 활성화해야 합니다.";
