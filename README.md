@@ -1,15 +1,17 @@
 # What is MedLens?
-Life Link is a mobile application designed to improve the 911 emergency response system. The app aims to address critical issues such as long wait times, inaccurate location tracking, language barriers, and accessibility challenges for marginalized groups, including individuals with disabilities and non-English speakers.
 
-Life Link is built using the Dart programming language and the Flutter framework, ensuring a smooth and responsive user interface across both iOS and Android platforms. To streamline the development process, I utilized FlutterFlow, a low-code platform, which accelerated the app's creation.
+MedLens is a mobile application designed to improve early detection of medical conditions, including skin cancer and tumors, using artificial intelligence. The app addresses key challenges such as delayed diagnosis, limited access to healthcare, and lack of medical awareness by providing users with instant insights based on image analysis.
 
-For the backend, Life Link leverages Firebase, a secure and scalable cloud platform that handles data management, user authentication, and real-time updates. With Firebase, I can ensure that the app delivers a reliable experience to users, even in emergency situations.
+MedLens is built using the Dart programming language and the Flutter framework, ensuring a smooth and responsive experience across both iOS and Android platforms. To accelerate development, FlutterFlow, a low-code platform, was used to design and build the user interface efficiently.
 
-Life Link is designed to provide a reliable and accessible solution for those in need of urgent help. It simplifies the process of contacting emergency services, improves location accuracy, and offers accessibility features for all users, regardless of their background or abilities.
+For the backend, MedLens leverages Firebase, a secure and scalable cloud platform that manages image storage, user data, and real-time processing. This ensures that the app remains fast, reliable, and accessible to users at all times.
 
+The core of MedLens is its AI-powered image model, trained on over 10,000 medical images to recognize patterns and classify potential conditions. The app provides users with possible diagnoses, risk levels, clear explanations, and recommended next steps within seconds.
+
+MedLens is designed to be a supportive tool that empowers users to take proactive steps toward their health. By making early detection more accessible, the app helps reduce delays in seeking medical attention and promotes better health outcomes.
 ## 📜 Repositories
 
-### [Life Link - Web App (Please Visit On a Mobile Device)](https://lifelink2025.flutterflow.app/)
+### [MedLens - Web App (Please Visit On a Mobile Device)](https://medlens.flutterflow.app/)
 
 ## 🔗 Links for Judges and Viewers
 
@@ -19,19 +21,42 @@ Life Link is designed to provide a reliable and accessible solution for those in
 
 ### [References](https://github.com/kenuii/MedLens/blob/main/bibliography.md)
 
-# 🖥️ Our Features
+# 🖥️ MedLens Features
 
-## 🛰️ Real-Time Location Tracking:
-Life Link provides real-time location tracking to share your exact location with emergency responders. This feature ensures that users' location is accurately identified, even in areas with poor GPS coverage, speeding up the response time during emergencies.
+## 🧠 AI-Powered Image Analysis  
+MedLens uses an advanced AI model trained on over 10,000 medical images to analyze uploaded photos and detect potential conditions such as skin cancer and tumors. Results are generated within seconds, making early assessment fast and accessible.
 
-## 🌐 Multilingual Support:
-Life Link includes multilingual support to overcome language barriers, allowing users to communicate with emergency responders in their preferred language. This feature is designed to help non-English speakers, ensuring they can get the help they need when they need it most.
+---
 
-## 📝 Speech-to-Text Accessibility:
-The app includes speech-to-text functionality for users with hearing or speech impairments. This feature enables users to send messages or request help via text, even in situations where speaking or hearing is not possible.
+## ⚠️ Risk Level Classification  
+Each analysis includes a clear risk level (Low, Medium, High) to help users understand the urgency of their condition and decide on appropriate next steps.
 
-## 🆘 Quick Access to Emergency Services:
-Life Link offers a simple and intuitive interface that allows users to quickly contact emergency services (police, fire, medical) with just a few taps. The app is designed for ease of use, especially during high-stress situations.
+---
 
-## 🔐 Secure User Authentication:
-Life Link ensures the security and privacy of its users through Firebase Authentication, which allows for safe and secure login procedures. Users can feel confident that their data is protected while using the app.
+## 📖 Simple Medical Explanations  
+MedLens provides easy-to-understand explanations for each result, breaking down complex medical information into clear, user-friendly language.
+
+---
+
+## 📸 Instant Image Upload & Processing  
+Users can take a photo or upload an image directly in the app. The image is securely processed and analyzed in real time, ensuring a smooth and efficient experience.
+
+---
+
+## 🌐 Multilingual Support  
+MedLens supports multiple languages, making medical insights accessible to users from different backgrounds and improving global usability.
+
+---
+
+## 🚨 Smart Medical Guidance  
+Based on the analysis, MedLens recommends actions such as monitoring the condition or seeking professional medical help, helping users make informed decisions quickly.
+
+---
+
+## ☁️ Secure Cloud Integration  
+Built with Firebase, MedLens securely stores and manages data while ensuring fast and reliable performance across devices.
+
+---
+
+## 🔒 Privacy & Data Protection  
+User data and medical images are handled securely, ensuring privacy and protection at all times.
