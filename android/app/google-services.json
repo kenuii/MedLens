@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570338391848",
+    "project_id": "cancer-app-d-upe-v8hv7a",
+    "storage_bucket": "cancer-app-d-upe-v8hv7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570338391848:android:0049c658c9f7dee88f421d",
+        "android_client_info": {
+          "package_name": "com.omar.medlens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4KPJXj6gCiba-rCAv2DwiZtwSMU7tPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
