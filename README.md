@@ -15,8 +15,6 @@ MedLens is designed to be a supportive tool that empowers users to take proactiv
 
 ## 🔗 Links for Judges and Viewers
 
-### [Video](https://youtu.be/oEo6aWIaYig)
-
 ### [Logbook](https://github.com/kenuii/MedLens/blob/main/logbook.md)
 
 ### [References](https://github.com/kenuii/MedLens/blob/main/bibliography.md)
